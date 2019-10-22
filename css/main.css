@@ -203,6 +203,10 @@ table th , table td
 {
     text-align: center;
 }
+.btn-xs
+{
+    margin-top: 5px;
+}
 /**Responsive**/
 @media(min-width:992px)
 {
