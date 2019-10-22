@@ -199,6 +199,10 @@ select
     background-color: #9c27b0;
 
 }
+table th , table td
+{
+    text-align: center;
+}
 /**Responsive**/
 @media(min-width:992px)
 {
