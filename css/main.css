@@ -65,7 +65,7 @@ ul, li {
 }
 .leftColumn .LeftUlPages li.active a{
     color: #FFF;
-    background-color: #9c27b0;
+    background-color: #4267b2;
     box-shadow: 0 4px 20px 0 rgba(0,0,0,.14), 0 7px 10px -5px rgba(156,39,176,.4);
 }
 .leftColumn .LeftUlPages li a:hover
@@ -154,7 +154,7 @@ ul, li {
 {
     padding-left: 100px;
     padding-right: 100px;
-    background-color: #9c27b0;
+    background-color: #4267b2;
     color: #FFF;
 
 }
@@ -163,7 +163,7 @@ ul, li {
     position: relative;
     top: 35px;
     left: 20px;
-    background-color: #9c27b0;
+    background-color: #4267b2;
     width: 95%;
     height: 80px;
     z-index: 9999;
@@ -179,7 +179,7 @@ ul, li {
 }
 .btt
 {
-    background-color: #9c27b0;
+    background-color: #4267b2;
 }
 select
 {
@@ -194,11 +194,7 @@ select
     -o-border-radius: 20px;
     border-radius: 20px;
 }
-.btn-primary
-{
-    background-color: #9c27b0;
 
-}
 table th , table td
 {
     text-align: center;
